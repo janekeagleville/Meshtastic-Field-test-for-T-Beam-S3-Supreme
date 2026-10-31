@@ -1,5 +1,7 @@
 # LoRa Field Test — LilyGo T-Beam S3 Supreme
 
+Samodzielny tester zasięgu sieci Meshtastic na płytce LilyGo T-Beam S3 Supreme (ESP32-S3, SX1262, OLED 1,3" 128×64, GPS, czytnik microSD, AXP2101). To własny firmware, nie Meshtastic. Działa z jednym urządzeniem: nie potrzebuje drugiego testera ani telefonu. Mierzy na żywo istniejącą sieć Meshtastic i zapisuje pomiary z pozycją GPS na kartę.
+
 <img width="1608" height="4500" alt="screens" src="https://github.com/user-attachments/assets/4f644d29-1298-414b-b794-9acb84cee275" />
 
 
